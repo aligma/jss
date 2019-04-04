@@ -17,7 +17,8 @@ The Sitecore GraphQL API is an implementation of a GraphQL server on top of Site
 * _A graph_. GraphQL queries are graph traversal, which enables incredibly expressive queries that would take many requests if done with a REST API.
 * _An amazing ecosystem_. The GraphQL community is large and vibrant, with a whole galaxy of useful tools already made.
 
-There are very good [tutorials](http://graphql.org/learn/) out there on how to use and learn GraphQL, including [Apollo Launchpad](https://launchpad.graphql.com/) that lets you create a GraphQL server and query it right in a browser.
+There are very good [tutorials](http://graphql.org/learn/) out there on how to use and learn GraphQL, including [Apollo Server](https://codesandbox.io/s/apollo-server) and [Apollo Launchpad](https://glitch.com/~apollo-launchpad)
+ that let you create a GraphQL server and query it right in a browser.
 
 ## When to use GraphQL?
 
